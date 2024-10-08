@@ -1,1 +1,2 @@
-# trading_model
+## Objective
+To develop a quantitative trading strategy using a mean reversion approach, employing key technical indicators like Simple Moving Average (SMA) and volatility to generate buy/sell signals. The project involved cleaning and transforming time-series data, applying rolling windows for technical analysis, and implementing a risk management system with well-defined entry and exit points. The strategy was rigorously backtested on historical data, with performance metrics such as SHARPE (2.71), WIN RATE (47.28%), SORTINO RATIO (4.53), RETURN (90.08%), and DRAWDOWN (10.09%). Tools used include Pandas, NumPy, and Matplotlib.
